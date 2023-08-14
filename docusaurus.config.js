@@ -55,6 +55,8 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
+      defaultMode: 'dark',
+      disableSwitch: false,
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
         title: 'Mikoto',
