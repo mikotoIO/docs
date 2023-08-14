@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmikoto_docs=self.webpackChunkmikoto_docs||[]).push([[701],{5696:e=>{e.exports=JSON.parse('{"title":"User Guide","slug":"/category/user-guide","permalink":"/category/user-guide","navigation":{"previous":{"title":"FAQs","permalink":"/faq"},"next":{"title":"Welcome to Mikoto","permalink":"/user-guide/welcome"}}}')}}]);
