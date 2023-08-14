@@ -59,18 +59,20 @@ const config = {
       disableSwitch: false,
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
+        
         title: 'Mikoto',
         logo: {
           alt: 'Mikoto Logo',
+          href: 'https://mikoto.io',
           src: 'img/logo.svg',
         },
         items: [
-          // {
-          //   type: 'docSidebar',
-          //   sidebarId: 'tutorialSidebar',
-          //   position: 'left',
-          //   label: 'Tutorial',
-          // },
+          {
+            type: 'docSidebar',
+            sidebarId: 'tutorialSidebar',
+            position: 'left',
+            label: 'Docs',
+          },
           {
             href: 'https://github.com/mikotoIO',
             label: 'GitHub',
